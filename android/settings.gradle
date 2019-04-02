@@ -1,0 +1,3 @@
+rootProject.name = 'chatup_1875'
+
+include ':app'
